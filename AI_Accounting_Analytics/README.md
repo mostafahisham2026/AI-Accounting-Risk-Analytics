@@ -236,4 +236,17 @@ This supports faster management review and provides a foundation for AI-assisted
 
 **STATUS: COMPLETED AND VALIDATED**
 
+
+
+
+Author
+
+Mostafa Hisham Abdelghani Abuhasswa
+
+Senior Accountant / Data Analyst
+
+
+
+
+
 The AI Accounting Analytics Master Output and final project documentation have been prepared and validated successfully.
